@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '9.0'
   
-  s.vendored_frameworks = 'MSocketRocket/SocketRocket.xcframework'
+  s.vendored_frameworks = 'MSocketRocket/QQQ.xcframework'
   
   # s.resource_bundles = {
   #   'MSocketRocket' => ['MSocketRocket/Assets/*.png']

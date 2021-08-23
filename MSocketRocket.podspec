@@ -33,7 +33,7 @@ TODO: Add long description of the pod here.
   s.vendored_frameworks = 'MSocketRocket/SocketRocket.xcframework'
   
   # s.resource_bundles = {
-  #   'MSocketRocket' => ['MSocketRocket/Assets/*.png']
+  #   'MSocketRocket' => ['./MSocketRocket/Assets/*.png']
   # }
 
   # s.public_header_files = 'Pod/Classes/**/*.h'

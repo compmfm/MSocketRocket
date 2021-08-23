@@ -30,7 +30,7 @@ MFM TEST SOCKET ROCKET.
 
   s.ios.deployment_target = '9.0'
   
-  s.vendored_frameworks = 'MSocketRocket/SocketRocket.xcframework'
+  s.vendored_frameworks = './MSocketRocket/SocketRocket.xcframework'
   
   # s.resource_bundles = {
   #   'MSocketRocket' => ['./MSocketRocket/Assets/*.png']

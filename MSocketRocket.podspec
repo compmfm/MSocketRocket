@@ -29,8 +29,8 @@ MFM TEST SOCKET ROCKET.
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
-  s.vendored_frameworks = './MSocketRocket/AFAFAF.xcframework'
-  #s.vendored_frameworks = './MSocketRocket/SocketRocket.xcframework'
+  #s.vendored_frameworks = './MSocketRocket/AFAFAF.xcframework'
+  s.vendored_frameworks = './MSocketRocket/SocketRocket.xcframework'
   
   # s.resource_bundles = {
   #   'MSocketRocket' => ['./MSocketRocket/Assets/*.png']
